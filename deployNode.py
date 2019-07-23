@@ -37,4 +37,5 @@ def main():
     TransferPackages(cfg)
 
 if __name__ == '__main__':
+    print "this is for tests"
     main()
